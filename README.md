@@ -1,11 +1,9 @@
 # Minecraft Theme Matching Game
-
 This is a simple Matching Game.
 ![PIC.png](https://i.ibb.co/6093HJq/Matching-Game.png)
 ![PIC.png](https://i.ibb.co/bsphjXM/Matching-Game2.png)
 
 ## Background
-
 An ICS4U assignment based on Java Swing.
 
 ## Usage
