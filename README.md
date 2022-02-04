@@ -11,8 +11,6 @@ An ICS4U assignment based on Java Swing.
 ## Usage
 You can find the complied jar file in dist, and src code in src.
 
-The result **Max Grade** means the highest grade you can get after it subtracts the mark you have lost.
-
 ## Features
 1. You can choose to match blocks or items.
 2. Designed a good looking matching game, by using JPanel instead of JButton
